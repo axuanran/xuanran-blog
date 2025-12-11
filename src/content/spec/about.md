@@ -4,6 +4,8 @@ This is the site for [xuanran-blog](https://github.com/axuanran/xuanran-blog).
 
 ::github{repo="axuanran/xuanran-blog"}
 
+if you would like to chat with me , besides telegram, I always active at WeChat. My wechat number is `Xuanran014`
+
 > ### Sources of images used in this site
 >
 > ##### Me
