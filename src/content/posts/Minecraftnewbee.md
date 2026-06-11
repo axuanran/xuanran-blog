@@ -1,5 +1,5 @@
 ---
-title: Minecraft 进服新手教程 (craft Newbee)
+title: Minecraft 进服从零开始 (craft Newbee)
 published: 2026-06-10
 description: ""
 image: ""
@@ -13,20 +13,15 @@ lang: ""
 
 hi，这是针对 Jutacraft 的一般教程
 
-从 0 开始一般遵循以下流程：
+从零开始一般遵循以下流程：
 
 1. 创建皮肤站的账号、并创建一个角色
 2. 下载并安装所需求版本的 Java
-3. 下载启动器
+3. 下载启动器并设置皮肤站账号
 4. 下载游戏或安装整合包
-5. 在启动器中设置皮肤站账号
-6. 启动游戏
-7. 添加服务器地址，并进入服务器
-8. 开心游玩＼(＾ O ＾)／🎮
+5. 启动游戏，添加服务器地址，并进入服务器
+6. 开心游玩＼(＾ O ＾)／🎮
 
-## Tip
-
-如果你的网速较慢，可以先下载 Java
 
 ## 1 皮肤站设置
 
@@ -34,7 +29,7 @@ hi，这是针对 Jutacraft 的一般教程
 https://littleskin.cn/
 点击立即注册并注册一个账户
 
-接着，根据此处的手册继续流程，完成验证邮箱，创建角色，设定材质（可选）
+接着，根据此处的手册继续流程，完成准备工作
 https://manual.littlesk.in/newbee/
 
 ## 2 安装所需版本的 Java
@@ -44,16 +39,19 @@ https://manual.littlesk.in/newbee/
 从此处下载 Java25
 https://d10.injdk.cn/openjdk/zulu/25/
 
-请寻找 -win_x64.msi 结尾的文件并点击下载
+寻找 `-win_x64.msi` 结尾的文件并点击下载
 
-下载好后安装即可
+下载好后安装
 
-## 3 下载启动器
+## 3 启动器设置
 
 打开 https://hmcl.huangyuhui.net/download/
 
 找到 开发版
-下载 windows 版本 (如果使用的是 windows 系统的话)
+下载对应系统版本
+
+在一个地方新建一个文件夹，将下载好后的文件放进去
+然后双击打开，根据这里设置皮肤站账号：https://manual.littlesk.in/yggdrasil/client
 
 ## 4 下载游戏或安装整合包
 
@@ -66,15 +64,11 @@ https://support.arcomua.com/install/hmcl.html
 
 直接询问群友解决问题
 
-## 5 在启动器中设置皮肤站账号
 
-根据这里继续
-https://manual.littlesk.in/yggdrasil/client
+## 6 启动游戏，添加服务器地址，并进入服务器
 
-## 6 启动游戏
+启动游戏
 
-启动游戏！
+选择 “多人游戏”-“添加服务器”，服务器名称任填，服务器地址填写群公告中的地址。
 
-## 7 添加服务器地址，并进入服务器
-
-选择 “多人游戏”-“添加服务器”，服务器名称随意填，服务器地址填写群公告中的地址
+按钮为灰色检查前后空格
